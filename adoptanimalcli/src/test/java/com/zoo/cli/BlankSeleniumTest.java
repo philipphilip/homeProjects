@@ -32,7 +32,7 @@ public class BlankSeleniumTest {
 
 	@AfterTest
 	public void afterTest() {
-		System.out.println("This is the After test method of the blank test");
+		// System.out.println("This is the After test method of the blank test");
 	}
 
 }
